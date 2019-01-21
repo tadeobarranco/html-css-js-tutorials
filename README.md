@@ -1,6 +1,6 @@
-# HTML and CSS tutorials for non-developers
+# HTML and CSS tutorials for non-developers and newbies
 
-A tutorial for NON-DEVELOPERS tutorial, those who want to learn about web technologies.
+A NON-DEVELOPERS and NEWBIES tutorial, those who want to learn about web technologies.
 
 **GOAL**
 
@@ -8,8 +8,8 @@ That people who wants to learn about web technologies but has troubles with the 
 
 # Tutorial de HTML y CSS para no desarrolladores
 
-Un tutorial para personas que NO SON DESARROLLADORES, pero que tienen el interes por aprender sobre tecnologías web.
+Un tutorial para personas que NO SON DESARROLLADORES o son NOVATOS, pero que tienen el interes por aprender sobre tecnologías web.
 
 **OBJETIVO**
 
-Que las personas que tienen el deseo de aprender sobre tecnologías web, pero que el lenguaje técnico que utilizamos muchos profesionales en la materia rompan dicha barrera con este tutorial, explicado de la manera más amigable posible.
+Que las personas que tienen el deseo de aprender sobre tecnologías web, pero que tienen problemas con el lenguaje técnico que utilizamos muchos profesionales en la materia rompan dicha barrera con este tutorial, explicado de la manera más amigable posible.
