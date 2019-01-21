@@ -25,3 +25,9 @@ Lo mínimo que un documento HTML debe contener es lo siguiente:
 </body>
 </html>
 ```
+
+Antes de analizar línea por línea el contenido de esta pieza de código te invito a realizar los siguientes pasos:
+
+- Crea una nueva carpeta en cualquier sitio de tu computadora. Nómbrala de una forma que sea fácil de recordar por que la vas a utilizar mucho.
+- Dentro de esa carpeta crea un archivo llamado `index.html`
+- Ya creado el archivo, da click derecho sobre el y selecciona la opción "Abrir con", selecciona tu navegador favorito y listo.
