@@ -2,6 +2,32 @@
 
 **What is HTML?**
 
+HTML is the acronym of HyperText Markoup Language but knowing that is as useful as know the ONU acronym and not understanding what that means or which is it main goal. So the key to answer, what is HTML? is: a language to build "web sites".
+
+This language as well as the Spanish or English has some rules that allows it to be understable, in a convencional communication there are an emisor and a receptor, in this case the emisor will be the one that writes the HTML code to express a thought or an idea and the web browser will be the receptor which translate the message that you want to show up.
+
+**Which is the basic structure of a HTML document?**
+
+The minimum content of a HTML document should have is:
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+</head>
+<body>
+
+</body>
+</html>
+```
+
+Before to analyze line by line the content of this piece of code you should do next steps:
+
+- Create a new folder wherever you want in your computer. Name it with a name that you remember because you will use it a lot.
+- Inside this folder create a `index.html` file.
+- With the file just created click the right button to select the "Open with" option and choose your favorite web browser and that is it.
+
 # HTML
 
 **¿Qué es HTML?**
