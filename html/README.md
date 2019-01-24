@@ -57,3 +57,14 @@ Antes de analizar línea por línea el contenido de esta pieza de código te inv
 - Crea una nueva carpeta en cualquier sitio de tu computadora. Nómbrala de una forma que sea fácil de recordar por que la vas a utilizar mucho.
 - Dentro de esa carpeta crea un archivo llamado `index.html`
 - Ya creado el archivo, da click derecho sobre el y selecciona la opción "Abrir con", selecciona tu navegador favorito y listo.
+
+Al abrir el archivo en tu navegador lo único que verás es una pantalla blanca, no te preocupes, es normal ya que nuestro archivo está vacío. Aprendamos algo más, con el click derecho de tu mouse da click sobre esa página blanca de tu navegador y selecciona la opción "Inspaccionar". El navegador web te mostrará una pantalla con el siguiente contenido:
+
+```html
+<html>
+  <head></head>
+  <body></body>
+</html>
+```
+
+Aún cuando tu archivo esta completamente vacío, el navegador identifica que tipo de archivo es y lo muestra con una estructura básica sin contenido. El siguiente paso es agregar al arhivo index.html el contenido que visualisate en la **estructura mínima de un documento HTML**. Si recargas tu navegador de nuevo e inspeccionas igual que antes, notarás que ahora la estructura es mayor a la que el navegador mostró cuando el archivo estaba vacío.
