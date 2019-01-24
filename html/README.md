@@ -28,6 +28,17 @@ Before to analyze line by line the content of this piece of code you should do n
 - Inside this folder create a `index.html` file.
 - With the file just created click the right button to select the "Open with" option and choose your favorite web browser and that is it.
 
+Once you open your file in the web browser you only are going to see a blank page, don't worry, it happens because your file is empty. Let's learn something else, in the blank page click the right button of the mouse and select the "Inspect" option. You will see a screen with content like this:
+
+```html
+<html>
+  <head></head>
+  <body></body>
+</html>
+```
+
+Even when your file is empty the web browser identifies what kind of file it is and show it as a default html content. Next step is to add the **default HTML content** you saw before. If you reload the page and "Inspect" it again you will see more content than before.
+
 # HTML
 
 **¿Qué es HTML?**
